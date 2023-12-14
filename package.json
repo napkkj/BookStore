@@ -10,6 +10,8 @@
   "license": "ISC",
   "dependencies": {
     "infinite-react-carousel": "^1.2.11",
+    "react-slick": "^0.29.0",
+    "slick-carousel": "^1.8.1",
     "slider-moon": "^1.0.3"
   }
 }

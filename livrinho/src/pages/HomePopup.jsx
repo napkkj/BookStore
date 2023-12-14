@@ -347,8 +347,8 @@ export default function popup() {
                 <FifthDot />
                 </Dots>
 
-                <BigThank>Obrigado por se Cadastrar</BigThank>
-                <SmallThank>Somos gratos por ter você conosco</SmallThank>
+                <BigThank>Obrigado por se cadastrar!</BigThank>
+                <SmallThank>Somos gratos por ter você conosco.</SmallThank>
                 <PopupIllustration src={loginimg}/>
                 <ContinueButton>Continuar</ContinueButton>
                 <WhiteSquare />
