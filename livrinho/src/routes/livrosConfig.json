@@ -1,0 +1,8 @@
+[
+  {"categoria" : "fantasia" , "path": "fantasia"},
+  {"categoria" : "ficcao", "path": "ficcao"},
+  {"categoria" : "receitas" , "path": "receitas"},
+  {"categoria" : "religiao" , "path": "religiao"},
+  {"categoria" : "romances" , "path": "romances"},
+  {"categoria" : "terror" , "path": "terror"}
+]

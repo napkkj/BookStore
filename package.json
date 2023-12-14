@@ -1,0 +1,15 @@
+{
+  "name": "levebook",
+  "version": "1.0.0",
+  "description": "O LeveBook é mais do que um simples site de compra e venda de livros; é um destino virtual onde amantes da leitura se reúnem para explorar, trocar e descobrir tesouros literários. Imagine um lugar onde as histórias ganham vida, e cada página vira uma oportunidade para se conectar com outros leitores apaixonados. Bem-vindo a uma nova era de compartilhamento de conhecimento e aventuras literárias!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "infinite-react-carousel": "^1.2.11",
+    "slider-moon": "^1.0.3"
+  }
+}
